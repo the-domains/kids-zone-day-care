@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.kzdaycare.com/index.html'
 inLanguage: null
 starred: false
 keywords: []
 description: "We are located on Business US-27 South of St. Johns, Michigan   In 4 classrooms our highly qualified staff\_ focus on problem solving, decision making and self-h"
-datePublished: '2016-02-18T22:28:34.559Z'
-dateModified: '2016-02-18T22:27:02.719Z'
+datePublished: '2016-02-18T22:45:31.083Z'
+dateModified: '2016-02-18T22:45:17.667Z'
 author: []
 title: ''
 sourcePath: _posts/2016-02-18-we-are-located-on-business-us-27-south-of-st-johns-michiga.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.kzdaycare.com
   url: null
   favicon: null
+url: we-are-located-on-business-us-27-south-of-st-johns-michiga/index.html
 _context: 'http://schema.org'
 _type: Article
 
