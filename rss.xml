@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Kids Zone Day Care]]></title>
         <description><![CDATA[Kids Zone Day Care]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kids-zone-day-care/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 21:45:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 21:45:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kids-zone-day-care/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>4500 S. Business US-27, Saint Johns, Mi. 48879</p>]]></description>
+            <link>https://thegrid.ai/kids-zone-day-care/4500-s-business-us-27-saint-johns-mi-48879/index.html</link>
+            <guid isPermaLink="false">95cc1455-665d-49d8-8467-8dd16d801b6d</guid>
+            <pubDate>Thu, 18 Feb 2016 21:44:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Kids Zone DayCare was founded in 1994 by Linda Parr and Judy Kleinjans.  Both are former school teachers.  Co-operatively they also ran Jack n' Jill preschool for 11 years.  Since 1986 they have taught hundreds of children and both have children and grandchildren of their own so they totally understand today's parenting issues.</p>]]></description>
+            <link>http://www.kzdaycare.com/index.html</link>
+            <guid isPermaLink="false">92c15a22-c190-4b03-a7a6-1ccd34d8da92</guid>
+            <pubDate>Thu, 18 Feb 2016 21:44:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.kzdaycare.com/files/QuickSiteImages/background-top.jpg">]]></description>
-            <link>undefinedwe-are-located-on-business-us-27-south-of-st-johns-michiga/index.html</link>
+            <link>https://thegrid.ai/kids-zone-day-care/we-are-located-on-business-us-27-south-of-st-johns-michiga/index.html</link>
             <guid isPermaLink="false">0e710431-fcd0-4ef5-a817-f60879014bba</guid>
             <pubDate>Thu, 18 Feb 2016 21:44:47 GMT</pubDate>
         </item>
