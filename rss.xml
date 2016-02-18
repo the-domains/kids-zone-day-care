@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kids Zone Day Care]]></title>
+        <description><![CDATA[Kids Zone Day Care]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 21:45:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.kzdaycare.com/files/QuickSiteImages/background-top.jpg">]]></description>
+            <link>undefinedwe-are-located-on-business-us-27-south-of-st-johns-michiga/index.html</link>
+            <guid isPermaLink="false">0e710431-fcd0-4ef5-a817-f60879014bba</guid>
+            <pubDate>Thu, 18 Feb 2016 21:44:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
