@@ -1,14 +1,28 @@
-layout_spectrum: 0
+name: Kids Zone Day Care
+favicon: null
+layout_spectrum: 0.25542
+typography_spectrum: 0.1182796
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8046595
-  lightness: 0.3422939
-  brandStrength: 0.1362007
   brandColors:
     - '#B3C8C4'
     - '#153B77'
     - '#A4A179'
     - '#A57E03'
     - '#4C2628'
+  brandStrength: 0.1362007
+  lightness: 0.3422939
+  saturation: 0.8046595
   rhythmicContrast: 0.7401434
-typography_spectrum: 0.1182796
-name: Kids Zone Day Care
+purpose: []
