@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.kzdaycare.com/about.html'
+inLanguage: null
+starred: false
+keywords: []
 description: 'A Licensed DayCare Center!  What are the advantages of daycare centers?  Many parents like daycare centers because they offer a formal, structured environment. '
+datePublished: '2016-02-18T22:43:47.672Z'
+dateModified: '2016-02-18T22:43:32.997Z'
 author: []
-datePublished: '2016-02-18T22:43:03.394Z'
-publisher:
-  domain: www.kzdaycare.com
-  name: kzdaycare.com
-dateModified: '2016-02-18T22:41:48.772Z'
 title: ''
 sourcePath: _posts/2016-02-18-a-licensed-daycare-center-what-are-the-advantages-of-dayca.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: a-licensed-daycare-center-what-are-the-advantages-of-dayca/index.html
+authors: []
+publisher:
+  name: kzdaycare.com
+  domain: www.kzdaycare.com
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
