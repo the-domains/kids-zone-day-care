@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'A Licensed DayCare Center!  What are the advantages of daycare centers?  Many parents like daycare centers because they offer a formal, structured environment. '
-datePublished: '2016-02-19T04:43:07.116Z'
-dateModified: '2016-02-19T04:40:58.361Z'
+datePublished: '2016-02-19T04:48:13.273Z'
+dateModified: '2016-02-19T04:47:55.359Z'
 author: []
 title: Why a Center?
 sourcePath: _posts/2016-02-18-a-licensed-daycare-center-what-are-the-advantages-of-dayca.md
