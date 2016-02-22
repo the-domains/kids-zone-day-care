@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Kids Zone DayCare was founded in 1994 by Linda Parr and Judy Kleinjans.\_ Both are former school teachers.\_ Co-operatively they also ran Jack n' Jill preschool f"
-datePublished: '2016-02-19T05:11:21.546Z'
-dateModified: '2016-02-19T05:11:07.458Z'
+datePublished: '2016-02-22T03:26:14.766Z'
+dateModified: '2016-02-22T03:24:44.498Z'
 author: []
 title: ''
 sourcePath: _posts/2016-02-18-kids-zone-daycare-was-founded-in-1994-by-linda-parr-and-judy.md
