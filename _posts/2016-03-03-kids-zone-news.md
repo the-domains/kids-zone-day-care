@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T22:13:48.609Z'
-dateModified: '2016-03-03T22:13:25.116Z'
+datePublished: '2016-03-03T22:17:37.266Z'
+dateModified: '2016-03-03T22:17:26.775Z'
 title: Kids Zone News
 author: []
+sourcePath: _posts/2016-03-03-kids-zone-news.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-03-kids-zone-news.md
-published: true
 url: kids-zone-news/index.html
 _type: WebPage
 
